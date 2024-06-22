@@ -1,5 +1,5 @@
 
 #支持私库
-snowdreamtech/frps
+docker pull ffdfgdfg/nps
 #支持指定架构
 
