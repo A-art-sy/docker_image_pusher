@@ -1,5 +1,5 @@
 
 #支持私库
- ffdfgdfg/nps
+snowdreamtech/frpc
 #支持指定架构
 
