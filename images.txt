@@ -1,5 +1,6 @@
 
 #支持私库
-snowdreamtech/frpc
+#snowdreamtech/frpc
+rustdesk/rustdesk-server
 #支持指定架构
 
