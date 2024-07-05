@@ -4,6 +4,7 @@
 #rustdesk/rustdesk-server
 #synology/lxqt
 #onlyoffice/documentserver
-synology/lxqt
+labeg/centos-lxqt-vnc
+
 #支持指定架构
 
