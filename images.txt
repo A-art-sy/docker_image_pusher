@@ -4,7 +4,7 @@
 #rustdesk/rustdesk-server
 #synology/lxqt
 #onlyoffice/documentserver
-labeg/centos-lxqt-vnc
-
+#labeg/centos-lxqt-vnc
+jlesage/firefox
 #支持指定架构
 
