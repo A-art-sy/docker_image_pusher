@@ -3,6 +3,7 @@
 #snowdreamtech/frpc
 #rustdesk/rustdesk-server
 #synology/lxqt
-onlyoffice/documentserver
+#onlyoffice/documentserver
+synology/lxqt
 #支持指定架构
 
